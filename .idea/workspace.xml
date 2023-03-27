@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc1b93eb-8465-4fef-a64e-8f1eeb0eff7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tic_Tac_Toe.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SafeInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToeFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToeTile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TicTacToeTileTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/uImage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/xImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Board.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GameStat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicTacToeFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicTacToeFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +36,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/valmi/OneDrive/Documents/Spring_2023/Rock_Paper_Scissors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/valmi/OneDrive/Documents/Spring_2023/Rock_Paper_Scissors&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

@@ -27,7 +27,9 @@ public class TicTacToeFrame extends JFrame {
         TicTacToeTile[][] theGrid={{new TicTacToeTile(0,0),new TicTacToeTile(0,1),new TicTacToeTile(0,2)},{new TicTacToeTile(1,0),new TicTacToeTile(1,1),new TicTacToeTile(1,2)},{new TicTacToeTile(2,0),new TicTacToeTile(2,1),new TicTacToeTile(2,2)}};
         JButton reset = new JButton("Reset Board");
 
+
         JPanel gamePanel = new JPanel();
+
         JPanel statPanel = new JPanel();
         JPanel recordsPanel = new JPanel();
         JLabel title = new JLabel("Tic Tack Toe");
@@ -44,8 +46,6 @@ public class TicTacToeFrame extends JFrame {
         JTextArea ta = new JTextArea("", 5, 50); // Text area
         ta.setLineWrap(true);
         JScrollPane sbrText = new JScrollPane(ta); // Scroll pane for text area
-
-
         sbrText.setVerticalScrollBarPolicy(JScrollPane.VERTICAL_SCROLLBAR_ALWAYS);
         c.weightx = 1;
 
